@@ -1,0 +1,25 @@
+.sobre__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5em 20em;
+    gap: 24px;
+}
+
+.sobre__subtitulo {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.sobre__titulo {
+    color: var(--azul-escuro);
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.sobre__descricao {
+    color: var(--cinza-azulado);
+    font-size: 20px;
+    font-weight: 400;
+    padding: 12px 0px 0px;
+}
